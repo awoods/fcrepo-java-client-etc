@@ -17,3 +17,7 @@ Getting description of command line options
 ```java
 java -jar fcrepo-java-client-etc -b http://host:port/context/rest/ -u username -p password
 ```
+
+Current Release
+---------------
+* [0.1.0](https://github.com/awoods/fcrepo-java-client-etc/releases/tag/fcrepo-java-client-etc-0.1.0-SNAPSHOT)
